@@ -1,0 +1,10 @@
+/** Module backgrounds : fonds animés, bouclables, dans les couleurs de marque. */
+export { MeshGradient, type MeshGradientProps } from './MeshGradient'
+export { GridBackground, type GridBackgroundProps } from './GridBackground'
+export { Grain, type GrainProps } from './Grain'
+export { Aurora, type AuroraProps } from './Aurora'
+export { Particles, type ParticlesProps } from './Particles'
+export { LightRays, type LightRaysProps } from './LightRays'
+export { Spotlight, type SpotlightProps, type SpotlightStop } from './Spotlight'
+export { PaperBackground, type PaperBackgroundProps } from './PaperBackground'
+export { loopAngle, loopNoise, withAlpha, type BackgroundTheme } from './loop'

@@ -1,0 +1,104 @@
+{
+ "keyboard/key-01.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766628/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-02.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766630/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-03.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766631/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-04.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766632/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-05.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766633/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-06.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766634/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-07.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766637/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-08.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766638/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/key-09.wav": {
+  "source": "https://freesound.org/people/StavSounds/sounds/766639/",
+  "author": "StavSounds",
+  "title": "Keyboard_Tactile (single key press, tactile mechanical keyboard)",
+  "license": "CC0-1.0"
+ },
+ "keyboard/space.wav": {
+  "source": "https://freesound.org/people/Sadiquecat/sounds/789630/",
+  "author": "Sadiquecat",
+  "title": "Keychron k10 space_bar",
+  "license": "CC0-1.0"
+ },
+ "keyboard/enter.wav": {
+  "source": "https://freesound.org/people/alpinemesh/sounds/627647/",
+  "author": "alpinemesh",
+  "title": "Enter key press, Corsair K70 RGB",
+  "license": "CC0-1.0"
+ },
+ "mouse/click.wav": {
+  "source": "https://freesound.org/people/Pixeliota/sounds/678248/",
+  "author": "Pixeliota",
+  "title": "Mouse Click Sound (press + release)",
+  "license": "CC0-1.0"
+ },
+ "mouse/press.wav": {
+  "source": "https://freesound.org/people/Pixeliota/sounds/678248/",
+  "author": "Pixeliota",
+  "title": "Mouse Click Sound (press only)",
+  "license": "CC0-1.0"
+ },
+ "mouse/release.wav": {
+  "source": "https://freesound.org/people/Pixeliota/sounds/678248/",
+  "author": "Pixeliota",
+  "title": "Mouse Click Sound (release only)",
+  "license": "CC0-1.0"
+ },
+ "ui/pop-open.wav": {
+  "source": "https://freesound.org/people/Rob_Marion/sounds/541993/",
+  "author": "Rob_Marion",
+  "title": "GASP_UI_Pop_1",
+  "license": "CC0-1.0"
+ },
+ "ui/success.wav": {
+  "source": "https://freesound.org/people/Rob_Marion/sounds/542044/",
+  "author": "Rob_Marion",
+  "title": "GASP_UI_Confirm",
+  "license": "CC0-1.0"
+ },
+ "ui/success-wood.wav": {
+  "source": "https://freesound.org/people/qubodup/sounds/822568/",
+  "author": "qubodup",
+  "title": "User Interface Elegant Wooden Confirmation Sound",
+  "license": "CC0-1.0"
+ }
+}

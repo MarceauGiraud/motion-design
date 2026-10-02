@@ -1,0 +1,11 @@
+/** Module text : typographie cinétique pour films de lancement SaaS. */
+export { KineticHeadline, type KineticHeadlineProps } from './KineticHeadline'
+export { TypeWriter, typeWriterDuration, type TypeWriterProps } from './TypeWriter'
+export { CountUp, type CountUpProps } from './CountUp'
+export { TextMorph, textMorphDuration, type TextMorphProps } from './TextMorph'
+export { WordRotator, type WordRotatorProps } from './WordRotator'
+export { Scramble, type ScrambleProps } from './Scramble'
+export { Highlighter, type HighlighterProps, type HighlightPart, type HighlightMark } from './Highlighter'
+export { GradientText, type GradientTextProps } from './GradientText'
+export { SplitReveal, type SplitRevealProps } from './SplitReveal'
+export { useTextLayouts, lcsPairs, type TextLayout, type GlyphBox, type MeasureStyle } from './shared'

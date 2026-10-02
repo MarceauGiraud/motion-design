@@ -1,0 +1,15 @@
+{
+  "video": "example",
+  "voiceId": "EXAVITQu4vr4xnSDxMaL",
+  "modelId": "eleven_multilingual_v2",
+  "languageCode": "fr",
+  "seed": 42,
+  "voiceSettings": { "stability": 0.45, "similarity_boost": 0.8, "style": 0.15, "speed": 1.02, "use_speaker_boost": true },
+  "lines": [
+    { "id": "hook", "text": "Et si votre outil se remplissait tout seul ?" },
+    { "id": "companies", "text": "Chaque entreprise, chaque contact, chaque échange. Au même endroit." },
+    { "id": "inbox", "text": "Tous vos messages, dans une seule boîte de réception." },
+    { "id": "assistant", "text": "Demandez à l'assistant. Il cherche, il qualifie, il crée les fiches pour vous." },
+    { "id": "cta", "text": "Acme. L'outil qui travaille pendant que vous vendez." }
+  ]
+}

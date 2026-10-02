@@ -1,0 +1,94 @@
+[
+ {
+  "id": "whoosh/airy-short",
+  "prompt": "Short airy UI whoosh, clean, modern tech product video transition, no reverb tail",
+  "duration": 0.6
+ },
+ {
+  "id": "whoosh/swoosh-soft",
+  "prompt": "Soft smooth swoosh, fabric-like air movement, subtle, premium SaaS motion design",
+  "duration": 0.8
+ },
+ {
+  "id": "whoosh/fast-pass",
+  "prompt": "Fast whoosh pass-by from left to right, crisp, cinematic motion graphics",
+  "duration": 0.7
+ },
+ {
+  "id": "whoosh/zoom-through",
+  "prompt": "Deep zoom-through whoosh with low sub swell, camera flying into a screen",
+  "duration": 1.2
+ },
+ {
+  "id": "riser/tension-2s",
+  "prompt": "Rising tension riser, airy synth and noise, building up to a reveal, modern tech",
+  "duration": 2
+ },
+ {
+  "id": "impact/soft-hit",
+  "prompt": "Soft deep cinematic impact hit, clean, short sub boom, minimal",
+  "duration": 1.2
+ },
+ {
+  "id": "sting/logo-bright",
+  "prompt": "Bright tech logo sting, shimmer sparkle then soft warm hit, elegant and minimal",
+  "duration": 2.5
+ },
+ {
+  "id": "ui/morph-glass",
+  "prompt": "Glassy liquid morph UI sound, smooth shape transformation, subtle",
+  "duration": 0.7
+ },
+ {
+  "id": "ambience/studio-bed",
+  "prompt": "Very subtle warm airy ambient pad bed, calm, modern, seamless loop",
+  "duration": 10,
+  "loop": true
+ },
+ {
+  "id": "ui/card-pickup",
+  "prompt": "Soft UI card pick up, light paper lift with a subtle airy swish, clean, close, no reverb",
+  "duration": 0.5
+ },
+ {
+  "id": "ui/card-drop",
+  "prompt": "Soft card drop onto a desk, muffled low wooden tap, satisfying and clean, no reverb",
+  "duration": 0.5
+ },
+ {
+  "id": "whoosh/fly-through",
+  "prompt": "Smooth long camera fly-through air movement, gentle whoosh with soft low swell, cinematic, no impact",
+  "duration": 2.2
+ },
+ {
+  "id": "ui/glass-shimmer",
+  "prompt": "Delicate glass UI shimmer, soft crystalline sparkle, airy, premium product video",
+  "duration": 0.8
+ },
+ {
+  "id": "ui/soft-tick",
+  "prompt": "Single very soft tick, tiny clean wooden click, UI, dry",
+  "duration": 0.5
+ },
+ {
+  "id": "ui/bubble-pop",
+  "prompt": "Soft rounded bubble pop, small UI card appearing, gentle, clean, dry",
+  "duration": 0.5
+ },
+ {
+  "id": "impact/deep-thump",
+  "prompt": "Deep warm sub thump with a short airy tail, cinematic accent for a product reveal, clean",
+  "duration": 1
+ },
+ {
+  "id": "riser/air-swell",
+  "prompt": "Short airy reverse swell rising into a transition, soft noise and shimmer, modern tech",
+  "duration": 1.2
+ },
+ {
+  "id": "fx/freeze-spread",
+  "prompt": "Ice freezing and spreading across glass, crisp crackling frost forming, delicate, cold, short, clean, no music",
+  "duration": 1.6,
+  "promptInfluence": 0.5
+ }
+]

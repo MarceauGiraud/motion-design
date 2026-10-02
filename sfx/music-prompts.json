@@ -1,0 +1,6 @@
+[
+ {"id": "music/intro-pad", "prompt": "Warm airy synth pad with a few gentle felt piano notes, calm anticipation, modern tech product film music, no drums, instrumental", "duration": 6, "promptInfluence": 0.5},
+ {"id": "music/groove-loop", "prompt": "Soft minimal house music loop at 104 bpm, steady soft kick, shaker and closed hi-hats, warm round bass, light synth plucks, clean modern tech product launch music, instrumental", "duration": 9.2, "loop": true, "promptInfluence": 0.5},
+ {"id": "music/lift-loop", "prompt": "Uplifting warm electronic music loop at 104 bpm, full soft house drums, warm chords, bright arpeggio, confident premium tech product launch, instrumental", "duration": 9.2, "loop": true, "promptInfluence": 0.5},
+ {"id": "music/outro-chord", "prompt": "Warm sustained final synth chord with soft felt piano, gentle resolve, slow fade out, modern tech product film ending, no drums", "duration": 6, "promptInfluence": 0.5}
+]

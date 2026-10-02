@@ -1,0 +1,40 @@
+{
+  "name": "motion-design",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Motion-design kit for SaaS videos with Remotion: springs, physics, morphs, 3D camera, transitions, UI cursor/toasts, sound design, ElevenLabs voice-over.",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "render:all": "node scripts/render-all.mjs",
+    "still": "remotion still",
+    "type-check": "tsc --noEmit",
+    "sfx:index": "node scripts/sfx-manifest.mjs",
+    "voiceover": "node --env-file-if-exists=.env scripts/elevenlabs-voiceover.mjs",
+    "sfx:generate": "node --env-file-if-exists=.env scripts/elevenlabs-sfx.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.528",
+    "@remotion/fonts": "4.0.528",
+    "@remotion/google-fonts": "4.0.528",
+    "@remotion/noise": "4.0.528",
+    "@remotion/paths": "4.0.528",
+    "@remotion/shapes": "4.0.528",
+    "@remotion/tailwind-v4": "4.0.528",
+    "@remotion/transitions": "4.0.528",
+    "@remotion/zod-types": "4.0.528",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.540.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.528",
+    "tailwind-merge": "^2.6.0",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "tailwindcss": "^4.1.12",
+    "typescript": "5.9.3"
+  }
+}
